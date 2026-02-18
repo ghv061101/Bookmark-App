@@ -37,7 +37,7 @@ Custom CSS with modern design
 Deployed on Vercel
 📦 Local Setup
 # Clone repository
-git clone https://github.com/abinaya242004/smart-bookmark-app.git
+git clone https://github.com/ghv061101/Bookmark-App.git
 
 # Navigate to project
 cd smart-bookmark-app
